@@ -5,6 +5,7 @@ desc=Java-Light_Simulation
 public=true
 homepage=
 license=mit
+remote=
 
 file.readme=.\README.md
 file.gitignore=.\.gitignore
