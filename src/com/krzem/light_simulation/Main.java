@@ -126,6 +126,7 @@ public class Main extends Constants{
 	}
 
 
+
 	private void quit(){
 		if (this._break==true){
 			return;
