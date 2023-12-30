@@ -128,13 +128,14 @@ public class CollisionEngine extends Constants{
 
 
 	private boolean _separate(Polygon e,CollisionObject co,double[][] e_s,double[][][] e_sl,double[] e_aabb,double[][] e_p,int idx){
-
+		return  false;
 	}
 
 
 
 	private boolean _add_support(double[] d){
 
+		return  false;
 	}
 
 
